@@ -3,7 +3,7 @@ layout: default
 title: Ringworm Scanner
 ---
 
-<img src="/assets/app_icon_1024_ultra_tight.png" alt="App icon" width="16" style="display:block;margin-bottom:0.5em;" />
+![App icon](/assets/app_icon_1024_ultra_tight.png){: width="24" }
 
 # Ringworm Scanner 🩺🐾
 
