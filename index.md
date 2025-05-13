@@ -27,4 +27,4 @@ Instantly check photos of skin for signs of **ringworm** using on-device AI.
 
 ---
 
-[Privacy Policy](/privacy)
+[Privacy Policy](/privacy/)
