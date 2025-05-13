@@ -3,14 +3,14 @@ layout: default
 title: Ringworm Scanner
 ---
 
-![App icon](/assets/icon-128.png){: width="96" }
+![App icon](/assets/app_icon_1024_ultra_tight.png){: width="24" }
 
 # Ringworm Scanner 🩺🐾
 
 Instantly check photos of skin for signs of **ringworm** using on-device AI.  
 *(No images ever leave your phone.)*
 
-[![Download on the App Store](/assets/appstore-badge.svg)](https://apps.apple.com/app/idYOUR_APP_ID)
+![Download on the App Store (Coming Soon)](/assets/appstore-badge.svg)
 
 ---
 

@@ -1,0 +1,54 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+
+# CoreML and model conversion artifacts
+*.mlmodel
+*.mlpackage
+*.onnx
+*.pb
+*.tflite
+*.h5
+
+# PyTorch checkpoints and weights
+*.pt
+*.pth
+checkpoint-*/
+
+# macOS system files
+.DS_Store
+
+# Temporary files and folders
+*.tmp
+temp/
+
+# VSCode and IDE folders
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# iOS build folders
+ios_model/
+
+# Data files and folders
+*.csv
+training_data/
+
+# Miscellaneous
+*.bak
+*.swp
+*.swo
