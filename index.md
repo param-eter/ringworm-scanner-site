@@ -5,7 +5,7 @@ title: Ringworm Scanner
 
 ![App icon](/assets/app_icon_1024_ultra_tight.png){: width="256" }
 
-# Ringworm Scanner 🩺🐾
+# Ringworm Scanner 
 
 Instantly check photos of skin for signs of **ringworm** using on-device AI.  
 *(No images ever leave your phone.)*
